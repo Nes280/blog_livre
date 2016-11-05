@@ -1,3 +1,8 @@
-app:
-    resource: "@AppBundle/Controller/"
+etu_mtp_blog:
+    resource: "@EtuMtpBlogBundle/Controller/"
     type:     annotation
+    prefix:   /
+#
+#app:
+#    resource: "@AppBundle/Controller/"
+#    type:     annotation
